@@ -1,13 +1,6 @@
-{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/254900EM62Y5RRTJ9771), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
- :company/inquiry-form-url "https://www.sbstransit.com.sg/enquiries"
- :company/jurisdiction "SG"
- :company/legal-address "205 Braddell Road, 579701, Singapore, SG"
- :company/legal-form-elf "VVOX"
- :company/legal-jurisdiction "SG"
- :company/legal-name "SBS Transit Ltd"
+{:company/legal-name "SBS Transit Ltd"
  :company/lei "254900EM62Y5RRTJ9771"
- :company/lei-status "LAPSED"
- :company/postal-address "205 Braddell Road, 579701, Singapore, SG"
- :company/registration-number "199206653M"
+ :company/jurisdiction "SG"
+ :company/website "https://www.sbstransit.com.sg"
  :company/ticker "SBTL (SGX); 75%-owned by ComfortDelGro Corporation Limited"
- :company/website "https://www.sbstransit.com.sg"}
+ :company/inquiry-form-url "https://www.sbstransit.com.sg/enquiries"}
